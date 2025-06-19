@@ -8,7 +8,7 @@ this is website www.com
 <h1 align="center">Hi 👋, I'm vishal kumar</h1>
 <h3 align="center">A passionate for learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkr123-162&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkr123-162" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkr123-162&label=Profile%20views&color=0e75b6&style=flat" alt="cvishal47" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalkr123-162" alt="vishalkr123-162" /></a> </p>
 
