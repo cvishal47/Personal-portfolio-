@@ -33,4 +33,4 @@ this is website www.com
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalkr123-162&show_icons=true&locale=en" alt="vishalkr123-162" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkr123-162&" alt="vishalkr123-162" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkr123-162&" alt="cvishal47" /></p>
